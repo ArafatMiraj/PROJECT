@@ -1,0 +1,30 @@
+1. add flat fix 
+2. rentRequest table 
+3. Dashboar owner
+    - Total House
+    - Total Flat
+    - No of flats rented
+    - No of flats no rented
+    - Total Renter
+    - Pending Complain
+    - Solved Complain
+    - Due Bill
+    - Total Guards
+
+4. Renter dashbaord
+    - Seach house for rent
+    - If rented then show the 
+        - house name 
+        - owner name 
+        - Owner contact
+        - Payment status
+        - Add complain
+        - View bill
+    - Guard name of the house
+    - if not rented then show all details and option to book it
+    5. Admin dashboard 
+    - All users list with their role (admin, renter or owner)
+
+
+
+
